@@ -54,7 +54,7 @@ CatBoost was chosen because:
   - Feature engineering (recency, streaks, product history) is critical for improving recall of minority classes.
   - CatBoost’s ability to handle categorical features natively simplified the pipeline and still produced interpretable feature importance.
   - Even when predictive power is modest, feature importance rankings are valuable for business storytelling and dashboard integration.
-  - 
+
 ##### References: 
 
 [1.] Sayyad, J. K., Attarde, K., & Saadouli, N. (2024). Optimizing e-commerce supply chains with categorical boosting: A predictive modeling framework. IEEE Access, 12, 134549–134567. https://doi.org/10.1109/access.2024.3447756 
