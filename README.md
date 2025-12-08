@@ -44,4 +44,11 @@ CatBoost was chosen because:
 3. It provides interpretable feature importance that integrates cleanly into dashboards.  
 
 ### What I Learned
-- Predicting rare events like returns is challenging bec
+- Predicting rare events like returns is challenging because accuracy can mask poor minority-class performance. Metrics such as ROC-AUC offer better clarity.  
+- Feature engineering has a major impact on improving recall for rare outcomes.  
+- CatBoost keeps the modeling pipeline straightforward while producing interpretable results.  
+- Even if model performance is modest, feature importance remains valuable for business storytelling.  
+
+### References
+1. Sayyad, J. K., Attarde, K., and Saadouli, N. (2024). Optimizing e-commerce supply chains with categorical boosting: A predictive modeling framework. *IEEE Access, 12*, 134549–134567. https://doi.org/10.1109/access.2024.3447756  
+2. https://www.geeksforgeeks.org/machine-learning/e-commerce-product-recommendations-using-catboost/
