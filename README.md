@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales and Returns Analytics Dashboard
 End-to-end analysis of e-commerce sales transactions with data cleaning, KPI generation, and an interactive Tableau dashboard.
-Dashboard Overview
+
 
 ![Dashboard Overview](images/dashboard_preview.jpg)
 
